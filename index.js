@@ -34,3 +34,7 @@ function appendKitten(name) {
 }
 
 var kittens = ["Milo", "Otis", "Garfield"]
+
+function prependKitten(name) {
+  kittens.unshift("Arnold")
+}
