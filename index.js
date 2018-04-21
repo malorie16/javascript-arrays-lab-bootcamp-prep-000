@@ -24,7 +24,7 @@ function destructivelyRemoveLastKitten() {
 var kittens = ["Milo", "Otis", "Garfield"]
 
 function destructivelyRemoveFirstKitten() {
-  kittens.slice(1)
+  kittens.push()
   return kittens
 }
 
